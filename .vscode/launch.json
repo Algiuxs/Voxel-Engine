@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MainGameLoop",
+            "request": "launch",
+            "mainClass": "ReonCraft.MainGameLoop",
+            "projectName": "Voxel Engine Tutorial Series_42a4774e",
+            "vmArgs": "-Djava.library.path=\"${workspaceFolder}/libs/lwjgl-2.9.3/native/windows\""
+        }
+    ]
+}

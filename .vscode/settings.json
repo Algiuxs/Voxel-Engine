@@ -1,0 +1,16 @@
+{
+  "java.project.sourcePaths": [
+    "src"
+  ],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [
+    "c:\\Users\\algim\\code\\java\\Voxel Engine Tutorial Series\\libs\\slick-util\\lib\\lwjgl_util_applet.jar",
+    "c:\\Users\\algim\\code\\java\\Voxel Engine Tutorial Series\\libs\\slick-util\\lib\\ibxm.jar",
+    "c:\\Users\\algim\\code\\java\\Voxel Engine Tutorial Series\\libs\\slick-util\\lib\\slick-util.jar",
+    "c:\\Users\\algim\\code\\java\\Voxel Engine Tutorial Series\\libs\\slick-util\\lib\\jorbis-0.0.15.jar",
+    "c:\\Users\\algim\\code\\java\\Voxel Engine Tutorial Series\\libs\\lwjgl-2.9.3\\jar\\lwjgl.jar",
+    "c:\\Users\\algim\\code\\java\\Voxel Engine Tutorial Series\\libs\\slick-util\\lib\\jogg-0.0.7.jar",
+    "c:\\Users\\algim\\code\\java\\Voxel Engine Tutorial Series\\libs\\lwjgl-2.9.3\\jar\\jinput.jar",
+    "c:\\Users\\algim\\code\\java\\Voxel Engine Tutorial Series\\libs\\lwjgl-2.9.3\\jar\\lwjgl_util.jar"
+  ]
+}
